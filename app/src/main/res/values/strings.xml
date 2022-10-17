@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UzCryillToLatin</string>
+    <string name="tocyr">"  →Кrill  "</string>
+    <string name="tolat">"  →Lotin  "</string>
+    <string name="hint">Matn</string>
+</resources>
